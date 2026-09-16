@@ -8,7 +8,7 @@
 
 > Cybersecurity Researcher · ML Engineer · Full-Stack Developer
 
-Final-year B.Tech Computer Science student at the University of Kashmir, specializing in malware analysis, machine learning, and full-stack web development. Currently interning as a Junior Programmer at the Asiatic Society for Social Science Research (ASSSR), New Delhi.
+B.Tech Computer Science student at the University of Kashmir, specializing in malware analysis, machine learning, and full-stack web development. Software Engineer at the Asiatic Society for Social Science Research (ASSSR), New Delhi.
 
 ---
 
