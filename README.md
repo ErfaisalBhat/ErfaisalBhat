@@ -15,7 +15,7 @@ B.Tech Computer Science student at the University of Kashmir, specializing in ma
 ## About Me
 
 - 🎓 B.Tech Computer Science
-- 💼 Junior Programmer Intern — ASSSR, New Delhi (Remote)
+- 💼 Software Engineer — ASSSR, New Delhi (Remote)
 - 🔬 Researcher — Static PE malware & ransomware detection using machine learning
 - 📄 Published: *Meltdown/Spectre Vulnerability Analysis* — [Zenodo](https://zenodo.org)
 - 🌐 Full-stack web developer with production deployments
